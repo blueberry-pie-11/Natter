@@ -1,8 +1,6 @@
 # Natter
 帮助 Full cone NAT (NAT 1) 用户打开公网 TCP 端口。  
 <p align="right">
-交流群组：<a href="https://jq.qq.com/?_wv=1027&k=EYXohGpC">Q 657590400</a> | <a href="https://t.me/+VS5sjOWGgzsyYjY1">TG</a>
-</p>
 
  - 更多实验性功能（UDP等），见 [v0.9](https://github.com/MikeWang000000/Natter/tree/v0.9) 分支。
  - 由 Natter 衍生的 C 语言实现 ([@heiher](https://github.com/heiher))：[NATMap](https://github.com/heiher/natmap)
